@@ -1,2 +1,0 @@
-# my-proj
-test
